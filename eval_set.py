@@ -1,0 +1,17 @@
+EVAL_SET = [
+    ("What is multi-head attention?", "attention_is_all_you_need.pdf"),
+    ("Why does the Transformer use positional encoding?", "attention_is_all_you_need.pdf"),
+    ("How does BERT use masked language modeling?", "bert.pdf"),
+    ("What is the next sentence prediction task?", "bert.pdf"),
+    ("What is retrieval-augmented generation?", "rag.pdf"),
+    ("What are RAG-Sequence and RAG-Token models?", "rag.pdf"),
+    ("What is a residual block in deep networks?", "resnet.pdf"),
+    ("What is the degradation problem in deep networks?", "resnet.pdf"),
+    ("How does the Adam optimizer work?", "adam.pdf"),
+    ("What is bias correction in Adam?", "adam.pdf"),
+    ("What is few-shot learning in language models?", "gpt3.pdf"),
+    ("What is the skip-gram model?", "word2vec.pdf"),
+    ("What is internal covariate shift?", "batchnorm.pdf"),
+    ("How are generator and discriminator trained in GANs?", "gans.pdf"),
+    ("How does the alignment model work in neural machine translation?", "bahdanau_attention.pdf"),
+]
