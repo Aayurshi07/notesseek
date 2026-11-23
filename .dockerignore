@@ -1,0 +1,5 @@
+venv/
+.env
+pdfs/
+__pycache__/
+.git/
